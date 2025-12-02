@@ -1,0 +1,291 @@
+FREIGHT_INVOICE_TEXT = """HAWB/HBL NUMBER:DIM111009741
+MAWB/MBL NUMBER:994-33027341
+Shipper::GOERTEK HONGKONG CO LIMITED
+Quote::QA0000082834
+Consignee::META PLATFORMS TECHNOLOGIES, LLC C/O ARVATO
+WEIGHT:2594KG
+NATURE OF GOODS:META QUEST 3, 512GB, US/TW/CA,
+Flight Info::KJ0952;KJ0248/HAN/ORD
+INVOICE DATE:2025 Oct 31
+PCS::10/CWT:2594/GWT:2594/VWT:2341.92
+LOT NUMBER:25100047
+CONSIGNEE:META PLATFORMS TECHNOLOGIES, LLC C/O ARVATO
+DSTN:USORD
+PONo::PO70001450247
+ATD::2025-10-22
+PIECES:10
+ORIGIN:VNHAN
+INVOICE NUMBER:04225060041
+TERMS:NET30
+USD:21,651.14
+SONo::559417
+Freight Charge:USD 19,455.00
+Customs Clearance Fee:USD 95.00
+Origin > Local Charge:77.82
+Delivery Charge:USD 778.20
+Shanghai:200120
+Handling Fee:USD 518.80
+Meta Platfoms Technologies:LLC C/O Arvato
+No.:1088,
+Pickup Charge:259.40
+Origin > Terminal Handling Charge:207.52
+Destination > Terminal Handling Charge:259.40
+TABLES
+-------
+--- TABLE 1 ---
+Rows: 2, Columns: 2
+| INVOICE DATE | INVOICE NUMBER |
+| --- | --- |
+| 2025 Oct 31 | 04225060041 |
+--- TABLE 2 ---
+Rows: 2, Columns: 7
+| MAWB/MBL NUMBER | HAWB/HBL NUMBER | LOT NUMBER | ORIGIN | DSTN | PIECES | WEIGHT |
+| --- | --- | --- | --- | --- | --- | --- |
+| 994-33027341 | DIM111009741 | 25100047 | VNHAN | USORD | 10 | 2594KG |
+--- TABLE 3 ---
+Rows: 2, Columns: 2
+| CONSIGNEE | NATURE OF GOODS |
+| --- | --- |
+| META PLATFORMS TECHNOLOGIES, LLC C/O ARVATO | META QUEST 3, 512GB, US/TW/CA, |
+--- TABLE 4 ---
+Rows: 10, Columns: 3
+| DESCRIPTION |  | AMOUNT |
+| --- | --- | --- |
+| Customs Clearance Fee | USD | 95.00 |
+| Delivery Charge | USD | 778.20 |
+| Freight Charge | USD | 19,455.00 |
+| Handling Fee | USD | 518.80 |
+| Origin > Local Charge | USD | 77.82 |
+| Pickup Charge | USD | 259.40 |
+| Origin > Terminal Handling Charge | USD | 207.52 |
+| Destination > Terminal Handling Charge | USD | 259.40 |
+|  |  |  |
+OCR TEXT LINES
+---------------
+Total lines: 79
+[0001] Dimerco Int'l Transportation (Shanghai) Co, Ltd
+[0002] Room1101-1104 No. 1088, Pudong South Road
+[0003] 3P Air
+[0004] Shanghai 200120
+[0005] CHINA
+[0006] Invoice
+[0007] TEL:+86-2151336588 FAX:+86-2160273708
+[0008] MELVLA612455
+[0009] INVOICE DATE
+[0010] INVOICE NUMBER
+[0011] B
+[0012] Meta Platfoms Technologies LLC C/O Arvato
+[0013] 2025 Oct 31
+[0014] 04225060041
+[0015] O-ΓΓ-0
+[0016] 637 E Blue Lick Rd
+[0017] Shepherdsville Kentucky, UNITED STATES,40165,
+[0018] TERMS
+[0019] TEL:+1
+[0020] NET30
+[0021] MAWB/MBL NUMBER
+[0022] HAWB/HBL NUMBER
+[0023] LOT NUMBER
+[0024] ORIGIN
+[0025] DSTN
+[0026] PIECES
+[0027] WEIGHT
+[0028] 994-33027341
+[0029] DIM111009741
+[0030] 25100047
+[0031] VNHAN
+[0032] USORD
+[0033] 10
+[0034] 2594KG
+[0035] CONSIGNEE
+[0036] NATURE OF GOODS
+[0037] META PLATFORMS TECHNOLOGIES, LLC C/O ARVATO
+[0038] META QUEST 3, 512GB, US/TW/CA,
+[0039] DESCRIPTION
+[0040] AMOUNT
+[0041] Customs Clearance Fee
+[0042] USD
+[0043] 95.00
+[0044] Delivery Charge
+[0045] USD
+[0046] 778.20
+[0047] Freight Charge
+[0048] USD
+[0049] 19,455.00
+[0050] Handling Fee
+[0051] USD
+[0052] 518.80
+[0053] Origin > Local Charge
+[0054] USD
+[0055] 77.82
+[0056] Pickup Charge
+[0057] USD
+[0058] 259.40
+[0059] Origin > Terminal Handling Charge
+[0060] USD
+[0061] 207.52
+[0062] Destination > Terminal Handling Charge
+[0063] USD
+[0064] 259.40
+[0065] PLEASE MAKE CHECK PAYABLE TO
+[0066] Dimerco Int'l Transportation (Shanghai) Co, Ltd
+[0067] USD
+[0068] 21,651.14
+[0069] PLEASE PAY THIS AMOUNT
+[0070] Shipper: GOERTEK HONGKONG CO LIMITED
+[0071] Consignee: META PLATFORMS TECHNOLOGIES, LLC C/O ARVATO
+[0072] ATD: 2025-10-22
+[0073] ATA:
+[0074] PONo: PO70001450247 / SONo: 559417
+[0075] PCS: 10/CWT:2594/GWT:2594/VWT:2341.92
+[0076] Quote: QA0000082834
+[0077] Flight Info: KJ0952;KJ0248/HAN/ORD
+[0078] Issued By Lisa Ni
+[0079] Confirmed By Lisa Ni...
+
+HAWB/HBL NUMBER:DIM111009741
+MAWB/MBL NUMBER:994-33027341
+Shipper::GOERTEK HONGKONG CO LIMITED
+Quote::QA0000082834
+Consignee::META PLATFORMS TECHNOLOGIES, LLC C/O ARVATO
+WEIGHT:2594KG
+NATURE OF GOODS:META QUEST 3, 512GB, US/TW/CA,
+Flight Info::KJ0952;KJ0248/HAN/ORD
+INVOICE DATE:2025 Oct 31
+PCS::10/CWT:2594/GWT:2594/VWT:2341.92
+LOT NUMBER:25100047
+CONSIGNEE:META PLATFORMS TECHNOLOGIES, LLC C/O ARVATO
+DSTN:USORD
+PONo::PO70001450247
+ATD::2025-10-22
+PIECES:10
+ORIGIN:VNHAN
+INVOICE NUMBER:04225060041
+TERMS:NET30
+USD:21,651.14
+SONo::559417
+Freight Charge:USD 19,455.00
+Customs Clearance Fee:USD 95.00
+Origin > Local Charge:77.82
+Delivery Charge:USD 778.20
+Shanghai:200120
+Handling Fee:USD 518.80
+Meta Platfoms Technologies:LLC C/O Arvato
+No.:1088,
+Pickup Charge:259.40
+Origin > Terminal Handling Charge:207.52
+Destination > Terminal Handling Charge:259.40
+TABLES
+-------
+--- TABLE 1 ---
+Rows: 2, Columns: 2
+| INVOICE DATE | INVOICE NUMBER |
+| --- | --- |
+| 2025 Oct 31 | 04225060041 |
+--- TABLE 2 ---
+Rows: 2, Columns: 7
+| MAWB/MBL NUMBER | HAWB/HBL NUMBER | LOT NUMBER | ORIGIN | DSTN | PIECES | WEIGHT |
+| --- | --- | --- | --- | --- | --- | --- |
+| 994-33027341 | DIM111009741 | 25100047 | VNHAN | USORD | 10 | 2594KG |
+--- TABLE 3 ---
+Rows: 2, Columns: 2
+| CONSIGNEE | NATURE OF GOODS |
+| --- | --- |
+| META PLATFORMS TECHNOLOGIES, LLC C/O ARVATO | META QUEST 3, 512GB, US/TW/CA, |
+--- TABLE 4 ---
+Rows: 10, Columns: 3
+| DESCRIPTION |  | AMOUNT |
+| --- | --- | --- |
+| Customs Clearance Fee | USD | 95.00 |
+| Delivery Charge | USD | 778.20 |
+| Freight Charge | USD | 19,455.00 |
+| Handling Fee | USD | 518.80 |
+| Origin > Local Charge | USD | 77.82 |
+| Pickup Charge | USD | 259.40 |
+| Origin > Terminal Handling Charge | USD | 207.52 |
+| Destination > Terminal Handling Charge | USD | 259.40 |
+|  |  |  |
+OCR TEXT LINES
+---------------
+Total lines: 79
+[0001] Dimerco Int'l Transportation (Shanghai) Co, Ltd
+[0002] Room1101-1104 No. 1088, Pudong South Road
+[0003] 3P Air
+[0004] Shanghai 200120
+[0005] CHINA
+[0006] Invoice
+[0007] TEL:+86-2151336588 FAX:+86-2160273708
+[0008] MELVLA612455
+[0009] INVOICE DATE
+[0010] INVOICE NUMBER
+[0011] B
+[0012] Meta Platfoms Technologies LLC C/O Arvato
+[0013] 2025 Oct 31
+[0014] 04225060041
+[0015] O-ΓΓ-0
+[0016] 637 E Blue Lick Rd
+[0017] Shepherdsville Kentucky, UNITED STATES,40165,
+[0018] TERMS
+[0019] TEL:+1
+[0020] NET30
+[0021] MAWB/MBL NUMBER
+[0022] HAWB/HBL NUMBER
+[0023] LOT NUMBER
+[0024] ORIGIN
+[0025] DSTN
+[0026] PIECES
+[0027] WEIGHT
+[0028] 994-33027341
+[0029] DIM111009741
+[0030] 25100047
+[0031] VNHAN
+[0032] USORD
+[0033] 10
+[0034] 2594KG
+[0035] CONSIGNEE
+[0036] NATURE OF GOODS
+[0037] META PLATFORMS TECHNOLOGIES, LLC C/O ARVATO
+[0038] META QUEST 3, 512GB, US/TW/CA,
+[0039] DESCRIPTION
+[0040] AMOUNT
+[0041] Customs Clearance Fee
+[0042] USD
+[0043] 95.00
+[0044] Delivery Charge
+[0045] USD
+[0046] 778.20
+[0047] Freight Charge
+[0048] USD
+[0049] 19,455.00
+[0050] Handling Fee
+[0051] USD
+[0052] 518.80
+[0053] Origin > Local Charge
+[0054] USD
+[0055] 77.82
+[0056] Pickup Charge
+[0057] USD
+[0058] 259.40
+[0059] Origin > Terminal Handling Charge
+[0060] USD
+[0061] 207.52
+[0062] Destination > Terminal Handling Charge
+[0063] USD
+[0064] 259.40
+[0065] PLEASE MAKE CHECK PAYABLE TO
+[0066] Dimerco Int'l Transportation (Shanghai) Co, Ltd
+[0067] USD
+[0068] 21,651.14
+[0069] PLEASE PAY THIS AMOUNT
+[0070] Shipper: GOERTEK HONGKONG CO LIMITED
+[0071] Consignee: META PLATFORMS TECHNOLOGIES, LLC C/O ARVATO
+[0072] ATD: 2025-10-22
+[0073] ATA:
+[0074] PONo: PO70001450247 / SONo: 559417
+[0075] PCS: 10/CWT:2594/GWT:2594/VWT:2341.92
+[0076] Quote: QA0000082834
+[0077] Flight Info: KJ0952;KJ0248/HAN/ORD
+[0078] Issued By Lisa Ni
+[0079] Confirmed By Lisa Ni"""
+
+BILL_OF_LADING_TEXT = """"""
